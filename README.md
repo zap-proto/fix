@@ -1,6 +1,6 @@
 # zap-fix
 
-> **Docs:** [FIX 4.4/5.0 over ZAP](https://zap-proto.dev/docs) · part of the [ZAP Protocol](https://zap-proto.io)
+> **Docs:** [FIX 4.4/5.0 over ZAP](https://zap-proto.dev/docs/protocols/fix) · part of the [ZAP Protocol](https://zap-proto.io)
 
 
 FIX 4.4 / 5.0 trading channel over ZAP — sub-microsecond p99.
